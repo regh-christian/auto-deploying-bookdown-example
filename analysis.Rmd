@@ -26,6 +26,8 @@ theme_set(theme_cowplot())
 
 Random text.  
 
+And another line!
+
 We rolled two twelve-sided dice `r nrow(filter(data, die_combo=="12+12"))` times.
 
 ```{r, message=FALSE, warning=FALSE}
